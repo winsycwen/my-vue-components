@@ -1,9 +1,13 @@
 <template>
-  <p>Hello world</p>
+  <swiper/>
 </template>
 
 <script>
+import swiper from '@/components/swiper.vue'
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    swiper
+  }
 }
 </script>
