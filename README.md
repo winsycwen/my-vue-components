@@ -1,6 +1,6 @@
-# vue-components
+# my-vue-components
 
-> 自vue组件，项目用[C练习习
+> Just for practice
 
 ## Build Setup
 
